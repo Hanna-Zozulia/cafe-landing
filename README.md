@@ -4,6 +4,10 @@ Warm Corner is a responsive, single-page landing website for a cozy cafe in Tall
 
 The website content is currently written in Russian, while the project documentation is provided in English.
 
+## Author
+
+Hanna Zozulia
+
 ## Features
 
 - Responsive layout for desktop, tablet, and mobile screens
